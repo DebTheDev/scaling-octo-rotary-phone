@@ -1,4 +1,4 @@
-# Node, Express, and PostgreSQL: Assignment
+# Backend build 
 
 This starter code is intended to be run for the Node.js, Express, & PostgreSQL module in the Thinkful curriculum.
 
